@@ -1,0 +1,22 @@
+# Requires Python >= 3.11
+pandas==2.3.3
+numpy==1.26.4  # RDKit requires numpy < 2.0
+
+matplotlib==3.10.8
+seaborn==0.13.2
+altair==6.0.0
+bumplot==0.2.1
+
+rdkit==2025.3.6
+
+scikit-learn==1.8.0
+pynndescent==0.6.0
+scikit-fingerprints==1.18.0
+imbalanced-learn==0.14.1
+xgboost==3.2.0
+
+tqdm==4.67.3
+streamlit==1.55.0
+
+pytest==9.0.3
+pylint==4.0.5
